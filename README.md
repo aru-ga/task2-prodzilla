@@ -1,5 +1,10 @@
 Used for ProductZilla's [Task 2] Typescript Fundamental. How to use:
 
-change directory to either tugas-1/tugas-2
-run "npm i" to install all needed packages
-run "npm run lessgo" to start nodemon
+## How to Use:
+
+1. Change directory to either `tugas-1` or `tugas-2`.
+
+2. Run the following command to install all the necessary packages:
+
+   ```bash
+   npm i
